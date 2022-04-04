@@ -1,0 +1,11 @@
+.border {
+    border: 5px dotted green
+}
+
+.border-side {
+    border: 2px solid red
+}
+
+.border-radius {
+    border: 7px solid blue
+}
