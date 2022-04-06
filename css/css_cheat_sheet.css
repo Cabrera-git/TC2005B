@@ -1,11 +1,88 @@
-.border {
-    border: 5px dotted green
+.b1 {
+    border: 2px dotted magenta;
 }
 
-.border-side {
-    border: 2px solid red
+.b2 {
+    border-left: 2px solid red;
+    border-top: 3px dashed green;
+    border-right: 4px dotted blue;
+    border-bottom: 9px groove yellow;
 }
 
-.border-radius {
-    border: 7px solid blue
+.b3 {
+    border: 2px solid mediumspringgreen;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20%;
+}
+
+.back {
+    border: 1px solid black;
+    background-image: url(/imgs/nyancat.gif);
+    background-color: transparent;
+}
+
+.col {
+    color: red;
+}
+
+.font {
+    font: italic small-caps bold 16px/2 cursive;
+}
+
+.fontf {
+    font-family: "Courier New";
+}
+
+.fontsw {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.size {
+    width: 200px;
+    height: auto;
+    border: 3px dotted orange;
+}
+
+.lis {
+    border: 1px red dotted;
+}
+
+.list {
+    list-style: inside square;
+}
+
+.margin {
+    border: 1px blue dotted;
+    margin: 25px;
+}
+
+.pa {
+    border: 1px green dotted;
+}
+
+.pad {
+    padding: 1em;
+}
+
+.of {
+    border: 1px crimson dotted;
+    overflow: scroll;
+}
+
+.pof {
+    height: 1em;
+}
+
+.disp {
+    display: flex;
+}
+
+.pos {
+    position: relative;
+    left: 200px;
+}
+
+.filt {
+    filter: blur(5px);
 }
