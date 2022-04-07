@@ -11,6 +11,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-top: 1px darkslateblue solid;
 }
 
 .title {
@@ -39,12 +40,15 @@ a {
     width: auto;
     display: grid;
     align-content: center;
+    border-top: 1px goldenrod solid;
+    border-bottom: 1px goldenrod solid;
 }
 
 .webdev {
     font-family: 'Trebuchet MS';
     font-size: larger;
     text-align: center;
+    margin-top: 8px;
 }
 
 .lorem1 {
@@ -52,7 +56,7 @@ a {
     font-size: small;
     text-align: left;
     overflow: scroll;
-    margin-top: 5px;
+    margin-top: 7px;
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 5%;
@@ -68,6 +72,7 @@ a {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    border-bottom: 1px darkslateblue solid;
 }
 
 form {
@@ -91,26 +96,26 @@ button {
 
 .html {
     text-align: center;
-    font-family: 'Trebuchet MS';
+    font-family: 'Courier New';
     font-size: 10px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 7px;
+    margin-right: 7px;
 }
 
 .css {
     text-align: center;
-    font-family: 'Trebuchet MS';
+    font-family: 'Courier New';
     font-size: 10px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 7px;
+    margin-right: 7px;
 }
 
 .js {
     text-align: center;
-    font-family: 'Trebuchet MS';
+    font-family: 'Courier New';
     font-size: 10px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 7px;
+    margin-right: 7px;
 }
 
 footer {
@@ -124,6 +129,8 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-top: 1px darkslateblue solid;
+    border-bottom: 1px darkslateblue solid;
 }
 
 h1, h2, h3, h4, h5, h6, p {
