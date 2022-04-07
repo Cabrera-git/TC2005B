@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: darkslategray;
+    color: white;
+    height: 35px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    font-family:'Trebuchet MS';
+    font-weight: bold;
+    margin-left: 3%;
+    top: 4px;
+}
+
+.extra {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    font-family:'Trebuchet MS';
+    font-size: 9px;
+    margin-right: 9px;
+}
+
+.desc {
+    background-color: peru;
+    color: white;
+    height: 200px;
+    width: auto;
+    display: grid;
+    align-content: center;
+}
+
+.webdev {
+    font-family: 'Trebuchet MS';
+    font-size: larger;
+    text-align: center;
+}
+
+.lorem1 {
+    font-family: 'Trebuchet MS';
+    font-size: small;
+    text-align: left;
+    overflow: scroll;
+    margin-top: 5px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+
+.newsletter {
+    background-color: darkslategray;
+    color: white;
+    font-family: 'Trebuchet MS';
+    font-size: 12px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    margin-left: 10%;
+}
+
+button {
+    background-color: peru;
+    color: white;
+    font-size: 12px;
+    height: auto;
+    width: auto;
+}
+
+.imgs {
+    margin-top: 15px; 
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.html {
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.css {
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.js {
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-size: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+footer {
+    background-color: darkslategray;
+    color: white;
+    font-family: 'Trebuchet MS';
+    font-size: smaller;
+    text-align: center;
+    height: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
