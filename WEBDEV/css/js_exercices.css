@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New';
+    background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/ARRDEQXXYJENFESFRCIJM5USLY.jpg);
+}
+
+.main {
+    margin: 5px;
+    padding: 3px;
+    border: 1px solid black;
+    background-color: white;
+    width: fit-content;
+}
+
+.txt {
+    overflow: scroll;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+h4 {
+    margin-top: 5px;
+}

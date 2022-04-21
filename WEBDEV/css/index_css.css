@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://pbs.twimg.com/media/FLq9OGRWYAAX7oK?format=jpg&name=large);
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    background-color: aquamarine;
+    min-width: 500px;
+    width: 70%;
+    height: fit-content;
+    text-align: center;
+    font-family: "Courier New";
+}
+
+.links {
+    border: 3px solid aquamarine;
+    border-top: transparent;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: white;
+    font-family: "Courier New";
+    font-size: 25px;
+    width: fit-content;
+}

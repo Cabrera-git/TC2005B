@@ -1,12 +1,17 @@
 body {
     margin: 0;
     padding: 0;
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    justify-content: space-between;
 }
 
 header {
     background-color: darkslategray;
     color: white;
-    height: 35px;
+    min-height: 30px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -36,12 +41,11 @@ a {
 .desc {
     background-color: peru;
     color: white;
-    height: 200px;
     width: auto;
-    display: grid;
     align-content: center;
     border-top: 1px goldenrod solid;
     border-bottom: 1px goldenrod solid;
+    height: 75vh;
 }
 
 .webdev {
@@ -55,7 +59,6 @@ a {
     font-family: 'Trebuchet MS';
     font-size: small;
     text-align: left;
-    overflow: scroll;
     margin-top: 7px;
     padding-left: 5%;
     padding-right: 5%;
