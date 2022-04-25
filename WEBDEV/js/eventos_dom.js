@@ -115,7 +115,10 @@ function rmvColor()
 function resize()
 {
     const img = document.getElementById('img')
-    img.height = Math.floor(Math.random() * 600) + 300
-    img.width = Math.floor(Math.random() * 600) + 300
+    r1 = (Math.floor(Math.random() * 9) + 3) * 100
+    r2 = (Math.floor(Math.random() * 9) + 3) * 100
+    img.src = `http://placekitten.com/${r1}/${r2}`
+    img.height = r1
+    img.width = r2
     img.addEventListener('mousemove',resize)
 }

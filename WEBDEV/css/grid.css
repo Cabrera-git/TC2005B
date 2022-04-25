@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Courier New';
+    font-size: large;
+    background-image: url(https://img.wattpad.com/c76fd112b7b562fca6d72e65473572afab816d37/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4f7749764d58416363482d7949513d3d2d313137313939363331312e313663363034333063396165363833333437333632323738373435332e6a7067);
+    background-size: cover;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100px;
+    background-color: white;
+    border: black 2px solid;
+    height: fit-content;
+}
