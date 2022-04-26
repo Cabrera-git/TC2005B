@@ -1,0 +1,57 @@
+body, html {
+    font-family: 'Courier New';
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: darkcyan;
+}
+
+div {
+    border: black 1px solid;
+    margin: 2px;
+    height: 97%;
+    background-color: brown;
+    color: fuchsia;
+    font-weight: bolder;
+}
+
+.outer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    height: 100%;
+    background-color: transparent;
+    border: black 1px solid;
+}
+
+.top_long {
+    grid-column: 1/4;
+    grid-row: 1/2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle_long {
+    grid-column: 2/6;
+    grid-row: 2/3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fat {
+    grid-row: 2/6;
+    grid-column: 1/2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.smol {
+    grid-row: 3/6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
