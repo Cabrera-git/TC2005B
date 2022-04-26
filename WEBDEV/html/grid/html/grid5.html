@@ -13,12 +13,16 @@
 
     <script>
         let o_div = document.getElementById("out")
+        let rn = Math.trunc(Math.random() * 17)
+        console.log(rn)
 
         for(let i = 0; i < 18; i++)
         {
             let i_div = document.createElement("div")
             i_div.className = 'inner'
             i_div.innerHTML = 'wheeee'
+            if(i == rn)
+                i_div.style.backgroundImage = "url('../../../imgs/farquado.jpg')"
             o_div.appendChild(i_div)
         }
     </script>
