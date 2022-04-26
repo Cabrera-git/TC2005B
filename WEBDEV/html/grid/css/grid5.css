@@ -1,0 +1,29 @@
+body, html {
+    font-family: 'Courier New';
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+}
+
+div {
+    height: 100%;
+    color: red;
+}
+
+.outer {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+.inner {
+    border: red 1px solid;
+    margin: 3%;
+    background-color: chartreuse;
+    height: 97%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
