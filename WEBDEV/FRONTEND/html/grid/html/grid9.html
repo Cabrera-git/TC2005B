@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/grid9.css">
+    <title>G R I D  9</title>
+</head>
+<body>
+    <div class="outer">
+        <div name="div" class="top_long">
+            1
+        </div>
+        <div name="div" class="middle_long">
+            2
+        </div>
+        <div name="div" class="fat">
+            3
+        </div>
+        <div name="div" class="smol">
+            4
+        </div>
+        <div name="div" class="smol">
+            5
+        </div>
+    </div>
+
+    <script>
+        let divs = document.getElementsByName('div')
+
+        for(let i = 0; i < divs.length; i++)
+        {
+            let red = Math.trunc(Math.random() * 255)
+            let green = Math.trunc(Math.random() * 255)
+            let blue = Math.trunc(Math.random() * 255)
+            divs[i].style.backgroundColor = `rgb(${red},${green},${blue})`
+        }
+    </script>
+</body>
+</html>

@@ -10,24 +10,36 @@
 <body>
     <div class="outer">
         <div class="upper">
-            <div class=" upper_left">
+            <div name="div" class=" upper_left">
                 <p>1</p>
             </div>
-            <div class="upper_right">
+            <div name="div" class="upper_right">
                 <p>2</p>
             </div>
         </div>
         <div class="middle">
-            <div class="middle_left">
+            <div name="div" class="middle_left">
                 <p>3</p>
             </div>
-            <div class="middle_right">
+            <div name="div" class="middle_right">
                 <p>4</p>
             </div>
         </div>
-        <div class="lower">
+        <div name="div" class="lower">
             <p>5</p>
         </div>
     </div>
+
+    <script>
+        let divs = document.getElementsByName('div')
+
+        for(let i = 0; i < divs.length; i++)
+        {
+            let red = Math.trunc(Math.random() * 255)
+            let green = Math.trunc(Math.random() * 255)
+            let blue = Math.trunc(Math.random() * 255)
+            divs[i].style.backgroundColor = `rgb(${red},${green},${blue})`
+        }
+    </script>
 </body>
 </html>

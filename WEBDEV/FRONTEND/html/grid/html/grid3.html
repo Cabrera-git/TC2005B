@@ -9,20 +9,32 @@
 </head>
 <body>
     <div class="outer">
-        <div class="long">
+        <div name="div" class="long">
             <p>L O N G</p>
         </div>
         <div class="dual">
-            <div class="short">
+            <div name="div" class="short">
                 <p>short</p>
             </div>
-            <div class="elongated">
+            <div name="div" class="elongated">
                 <p>E L O N G A T E</p>
             </div>
         </div>
-        <div class=" long">
+        <div name="div" class= "long">
             <p> L O N G</p>
         </div>
     </div>
+
+    <script>
+        let divs = document.getElementsByName('div')
+
+        for(let i = 0; i < divs.length; i++)
+        {
+            let red = Math.trunc(Math.random() * 255)
+            let green = Math.trunc(Math.random() * 255)
+            let blue = Math.trunc(Math.random() * 255)
+            divs[i].style.backgroundColor = `rgb(${red},${green},${blue})`
+        }
+    </script>
 </body>
 </html>

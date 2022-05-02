@@ -9,20 +9,32 @@
 </head>
 <body>
     <div class="outer">
-        <div class="long">
+        <div name="div" class="long">
             <p>I - A M - L O N G</p>
         </div>    
         <div class="dual">
-            <div class="inner">
+            <div name="div" class="inner">
                 <p>1</p>
             </div>
-            <div class="inner">
+            <div name="div" class="inner">
                 <p>2</p>
             </div>
         </div>
-        <aside>
+        <aside name="div">
             <p>Cowabunga it is</p>
         </aside>
     </div>
+
+    <script>
+        let divs = document.getElementsByName('div')
+
+        for(let i = 0; i < divs.length; i++)
+        {
+            let red = Math.trunc(Math.random() * 255)
+            let green = Math.trunc(Math.random() * 255)
+            let blue = Math.trunc(Math.random() * 255)
+            divs[i].style.backgroundColor = `rgb(${red},${green},${blue})`
+        }
+    </script>
 </body>
 </html>

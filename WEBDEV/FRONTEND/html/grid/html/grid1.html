@@ -28,5 +28,17 @@
             <p>6</p>
         </div>
     </div>
+
+    <script>
+        let divs = document.getElementsByClassName('inner')
+
+        for(let i = 0; i < divs.length; i++)
+        {
+            let red = Math.trunc(Math.random() * 255)
+            let green = Math.trunc(Math.random() * 255)
+            let blue = Math.trunc(Math.random() * 255)
+            divs[i].style.backgroundColor = `rgb(${red},${green},${blue})`
+        }
+    </script>
 </body>
 </html>

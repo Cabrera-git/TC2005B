@@ -21,6 +21,10 @@
             let i_div = document.createElement("div")
             i_div.className = 'inner'
             i_div.innerHTML = 'wheeee'
+            let red = Math.trunc(Math.random() * 255)
+            let green = Math.trunc(Math.random() * 255)
+            let blue = Math.trunc(Math.random() * 255)
+            i_div.style.backgroundColor = `rgb(${red},${green},${blue})`
             if(i == rn)
                 i_div.style.backgroundImage = "url('../../../imgs/farquado.jpg')"
             o_div.appendChild(i_div)
