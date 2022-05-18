@@ -1,0 +1,1542 @@
+fileFormatVersion: 2
+guid: aed75cc37c46a444588a88aec5b26b6c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdce311128e8f814da48ee46302a7d12
+      internalID: -1656129209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4398a27f84e396408429adc0f8c8eb7
+      internalID: -1358246244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8023c192004843040b271dfa60be3830
+      internalID: 302272158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1979357ea00b524e9b6f6b458ed2db1
+      internalID: -1311330277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af873d1408f41d469ffd84728adf038
+      internalID: -792791168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa70a443b0816a4c8e82b1d5880450c
+      internalID: -1207151709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8e3a30215bf145bf3abc38828e8bd
+      internalID: -2094527293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eff7ef4b1e6ed43b761aac2ccc22e4
+      internalID: 1715366077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da00c8b0ba8e6c145916373264c1aa16
+      internalID: -2029685275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b93398b8bb22549ae6dc71e2d1169b
+      internalID: 1741316127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b515b2fe137bbbe4f98f0dd773a8c21c
+      internalID: -1073117822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31afe4c97942454aba6025ebe8c440c
+      internalID: 719829694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27cb13871d4d814f850c8ceab0b967c
+      internalID: -514263012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_13
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147bf6acd8bc0464fb297e0af5bb2d76
+      internalID: -1293445332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f992f02382194448e1a9975fb7de59
+      internalID: -2028726097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e839e368b211874abed515e6168f790
+      internalID: 1900502262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e5cdb6486b9264b8f74b8d3502c78f
+      internalID: 1704327978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9e2605d51a60a4eabff98b54a53694
+      internalID: 966881307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124904bb05f84da4d8d8a739f8843754
+      internalID: 667340491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e25a632107c964eac93620c583d570
+      internalID: 549938492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364d48452b473234986405a82789f43e
+      internalID: 1342460458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cd8f592beb10548ac11a86bd608840
+      internalID: -2081010685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f84e8af291f641b3fcd053c138524
+      internalID: -1296602027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9188236d592bd4da72c6906ac1e046
+      internalID: 2065934828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d731dab9949f4b89e547d19302f6b
+      internalID: 811849012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc9dec0a5743db4ca71048803906943
+      internalID: 655403863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25533506637d2b408b2030d7c749ecc
+      internalID: 1962185891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5af78dd569543742ae0821052b494e2
+      internalID: 1903309872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e26adf8401a9242bcfa0f07fc19d29
+      internalID: 642099226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4af39b588412e49b66a071d48ecdb6
+      internalID: -975968951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d7f5ebb2f78e468e48a2c73391177
+      internalID: 1254005223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3042494c87d592a4997c6806721ec35f
+      internalID: 1879001829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ea8ba1cc263c43860bd7ff7c1d123
+      internalID: -996808341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d397202b2b2a74facfecb411a02a87
+      internalID: -1726155667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e723f0d46a43e4c98fafd4496d48bb
+      internalID: -1508961736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc0bb942ce8b6a4a83893fc0da1b119
+      internalID: -1930475196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8219532165dd340a16af65026f8205
+      internalID: 1707078550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb399a31a509f947ba94cb70ac5dbc9
+      internalID: 1470371653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf6d50ec46aa1439f40536658c472b
+      internalID: 2039071544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34f0e3320378af4c95c72e968327b78
+      internalID: -210416021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1debb6f92312204fb4305f360c2d5b9
+      internalID: 287210656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ee675c07d6f14f8ee91239e949c8d
+      internalID: 1836295509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469e50a96ea1082418b9df2fdc38c975
+      internalID: 1369020162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da5e26005a7d64195d2675beac594f
+      internalID: 1971456090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8940e8f6b3762f4e8e9ebee74526952
+      internalID: 1784062437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738bf8da617bf104fa1076a930aec063
+      internalID: -2111830627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1506363decb64bf4d9c72d68a8fa5cb2
+      internalID: 433665192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_47
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f22c2fe2dd4b14083f6d5d128b13b8
+      internalID: -1401447184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ce53b388663b4db272eabd649acdb
+      internalID: -1182671039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6016d38a787f95a439ad88aa33c2d1cd
+      internalID: -1050317603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4cbc037c3077c4a9621812fedeb118
+      internalID: 2089059405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8539994928a83468bf9ad3189a0f33
+      internalID: 1671605334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58075335c9d91246be9366ccc3b624f
+      internalID: 742652356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b39445327e394c9b5f759ed73abb8
+      internalID: 1641021742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d5859c8668034097d2ceaeaba6259
+      internalID: -74720473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab6bfa6a20648e41b29610fd3d8c163
+      internalID: 17247361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf480e9fb661c444b9180a1a2d2be8c
+      internalID: 975098058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1bede5464d2f47aa063cee0d24f01
+      internalID: 849861575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f83a67dd7f3474486028be64a7e863
+      internalID: -964478066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9028dc195c9357644a7788023aa1c57a
+      internalID: -1138108057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969b1b361e40eba47803c12f526f5fe5
+      internalID: 1715906402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be926c14c55e80f4ca318ebc52899e71
+      internalID: 1544604122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8f4854b7a628d4291418a701673738
+      internalID: 1938477074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesOrcBaseIdle_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c479866d4df5f1f48b352f1fe627b5d7
+      internalID: 2112359678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Minifantasy_CreaturesOrcBaseIdle_45: -2111830627
+      Minifantasy_CreaturesOrcBaseIdle_51: 1671605334
+      Minifantasy_CreaturesOrcBaseIdle_57: 849861575
+      Minifantasy_CreaturesOrcBaseIdle_5: -1207151709
+      Minifantasy_CreaturesOrcBaseIdle_63: 2112359678
+      Minifantasy_CreaturesOrcBaseIdle_41: 1836295509
+      Minifantasy_CreaturesOrcBaseIdle_4: -792791168
+      Minifantasy_CreaturesOrcBaseIdle_14: -2028726097
+      Minifantasy_CreaturesOrcBaseIdle_32: -996808341
+      Minifantasy_CreaturesOrcBaseIdle_2: 302272158
+      Minifantasy_CreaturesOrcBaseIdle_27: 1903309872
+      Minifantasy_CreaturesOrcBaseIdle_7: 1715366077
+      Minifantasy_CreaturesOrcBaseIdle_28: 642099226
+      Minifantasy_CreaturesOrcBaseIdle_16: 1704327978
+      Minifantasy_CreaturesOrcBaseIdle_1: -1358246244
+      Minifantasy_CreaturesOrcBaseIdle_56: 975098058
+      Minifantasy_CreaturesOrcBaseIdle_44: 1784062437
+      Minifantasy_CreaturesOrcBaseIdle_8: -2029685275
+      Minifantasy_CreaturesOrcBaseIdle_24: 811849012
+      Minifantasy_CreaturesOrcBaseIdle_34: -1508961736
+      Minifantasy_CreaturesOrcBaseIdle_15: 1900502262
+      Minifantasy_CreaturesOrcBaseIdle_29: -975968951
+      Minifantasy_CreaturesOrcBaseIdle_31: 1879001829
+      Minifantasy_CreaturesOrcBaseIdle_19: 549938492
+      Minifantasy_CreaturesOrcBaseIdle_21: -2081010685
+      Minifantasy_CreaturesOrcBaseIdle_38: 2039071544
+      Minifantasy_CreaturesOrcBaseIdle_59: -1138108057
+      Minifantasy_CreaturesOrcBaseIdle_50: 2089059405
+      Minifantasy_CreaturesOrcBaseIdle_17: 966881307
+      Minifantasy_CreaturesOrcBaseIdle_0: -1656129209
+      Minifantasy_CreaturesOrcBaseIdle_46: 433665192
+      Minifantasy_CreaturesOrcBaseIdle_53: 1641021742
+      Minifantasy_CreaturesOrcBaseIdle_54: -74720473
+      Minifantasy_CreaturesOrcBaseIdle_13: -1293445332
+      Minifantasy_CreaturesOrcBaseIdle_42: 1369020162
+      Minifantasy_CreaturesOrcBaseIdle_49: -1050317603
+      Minifantasy_CreaturesOrcBaseIdle_40: 287210656
+      Minifantasy_CreaturesOrcBaseIdle_11: 719829694
+      Minifantasy_CreaturesOrcBaseIdle_37: 1470371653
+      Minifantasy_CreaturesOrcBaseIdle_62: 1938477074
+      Minifantasy_CreaturesOrcBaseIdle_18: 667340491
+      Minifantasy_CreaturesOrcBaseIdle_55: 17247361
+      Minifantasy_CreaturesOrcBaseIdle_26: 1962185891
+      Minifantasy_CreaturesOrcBaseIdle_52: 742652356
+      Minifantasy_CreaturesOrcBaseIdle_20: 1342460458
+      Minifantasy_CreaturesOrcBaseIdle_10: -1073117822
+      Minifantasy_CreaturesOrcBaseIdle_36: 1707078550
+      Minifantasy_CreaturesOrcBaseIdle_12: -514263012
+      Minifantasy_CreaturesOrcBaseIdle_30: 1254005223
+      Minifantasy_CreaturesOrcBaseIdle_23: 2065934828
+      Minifantasy_CreaturesOrcBaseIdle_9: 1741316127
+      Minifantasy_CreaturesOrcBaseIdle_22: -1296602027
+      Minifantasy_CreaturesOrcBaseIdle_58: -964478066
+      Minifantasy_CreaturesOrcBaseIdle_25: 655403863
+      Minifantasy_CreaturesOrcBaseIdle_39: -210416021
+      Minifantasy_CreaturesOrcBaseIdle_33: -1726155667
+      Minifantasy_CreaturesOrcBaseIdle_60: 1715906402
+      Minifantasy_CreaturesOrcBaseIdle_48: -1182671039
+      Minifantasy_CreaturesOrcBaseIdle_3: -1311330277
+      Minifantasy_CreaturesOrcBaseIdle_6: -2094527293
+      Minifantasy_CreaturesOrcBaseIdle_47: -1401447184
+      Minifantasy_CreaturesOrcBaseIdle_61: 1544604122
+      Minifantasy_CreaturesOrcBaseIdle_43: 1971456090
+      Minifantasy_CreaturesOrcBaseIdle_35: -1930475196
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
